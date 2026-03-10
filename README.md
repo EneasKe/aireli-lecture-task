@@ -15,6 +15,13 @@ To use Github Codespaces you will need a Github Account and VS Code for the setu
   - Screen recording: **Make sure to record your screen for the entire time you work on the task. Do not use a secondary screen (i.e. all actions have to be visible in the screen recording)**
 
 
+## Video Help
+If you get stuck at any point, check our video tutorial walkthrough:
+- [0:00 Setup Github Codespace (Written Explanation below)](https://www.youtube.com/watch?v=HZH04HG7a3s)
+- [1:31 How to Record Screen](https://www.youtube.com/watch?v=HZH04HG7a3s&t=91s)
+- [2:29 How to Export Screen Recording](https://www.youtube.com/watch?v=HZH04HG7a3s&t=149s)
+- [3:22 How to Publish Code Changes to New Public Repository](https://www.youtube.com/watch?v=HZH04HG7a3s&t=202s)
+
 ## Setup
 
 1. Click on "Code" > "Codespaces" > "+"
